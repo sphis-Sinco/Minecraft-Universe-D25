@@ -1,5 +1,4 @@
 # Experimental Versions
-
 ## Ev-0.1-e1y2024 - 1/10/2025 - The Update of New Return
 - Changed generator from "Forge for 1.20.1" to "NeoForge for 1.21.1"
 - Changed Pink Lolipop Display Name to "Pink Lolipop"
