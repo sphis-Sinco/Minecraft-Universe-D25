@@ -1,11 +1,14 @@
-V0.1 - 1/10/2025 - The Update of New Return
+# Experimental Versions
+
+## Ev-0.1-e1y2024 - 1/10/2025 - The Update of New Return
 - Changed generator from "Forge for 1.20.1" to "NeoForge for 1.21.1"
 - Changed Pink Lolipop Display Name to "Pink Lolipop"
 - Changed Lolipop Stick Display Name to "Lolipop Stick"
 - Changed how eating a Lolipop Stick works and now it poisons you
 - Added Folders for mod Elements
 
-V0.0.11 - 1/4/2024 - Environmental Religion
+# Release Versions
+## v0.0.11 - 1/4/2024 - Environmental Religion
 - Added Oak Garden structure
 - Added Birch Garden structure
 - Added Spruce Garden structure
@@ -15,15 +18,15 @@ V0.0.11 - 1/4/2024 - Environmental Religion
 - Added the Rendition Item Recipe Unlock Code
 - Added new Armorer Master Trade
 
-V0.0.10 - 1/3/2024 - Fixer Update
+## v0.0.10 - 1/3/2024 - Fixer Update
 - Added The Scythe Crafting Recipe
 - Added The ability to unlock the Scythe Crafting Recipe
 
-V0.0.9 - 1/3/2024 - Combat World Update
+## v0.0.9 - 1/3/2024 - Combat World Update
 - Added Combat Chamber (48 x 9 x 48 structure!)
 - Added The Scythe
 
-v0.0.8 - 1/3/2024 - Inventory Update
+## v0.0.8 - 1/3/2024 - Inventory Update
 - Added Bags (with all MAIN color versions (so 13 variations))
 - Added the ability to the unlock the Candy Corn Recipe
 - Added Bag GUI
@@ -34,11 +37,11 @@ v0.0.8 - 1/3/2024 - Inventory Update
 - Put all the Updates in one .zip
 
 
-v0.0.7 - 1/3/2024 - Minority Part 3
+## v0.0.7 - 1/3/2024 - Minority Part 3
 - Changed Heather Dimension Generation type: The Overworld
 - Added Entity: Firefly
 
-V0.0.6 - 1/2/2024 - The Pretty Peaceful Update
+## v0.0.6 - 1/2/2024 - The Pretty Peaceful Update
 - Added the Hether
 - Added the Dream Planter
 - Added Candy Corn Recipe
@@ -49,10 +52,10 @@ V0.0.6 - 1/2/2024 - The Pretty Peaceful Update
 - Added Cloud Block Recipe
 - Added "Redstone Materials" Tag
 
-V0.0.5 - 1/2/2024 - Minority part 2
+## v0.0.5 - 1/2/2024 - Minority part 2
 - Added Zombie Warrior
 
-V0.0.4 - 1/1/2024 - Single Works Update
+## v0.0.4 - 1/1/2024 - Single Works Update
 - Removed Gozoki Zombi
 - Removed Gozoki Zombi Indartsua
 - Removed Gozoki Zombi Candy Biome Spawning
@@ -65,7 +68,7 @@ V0.0.4 - 1/1/2024 - Single Works Update
 - Added Ruined Nether Portal Structure Spawning to the Candy Biome
 - Added Missing Textures back
 
-V0.0.3 - 1/1/2024 - Minority Update
+## v0.0.3 - 1/1/2024 - Minority Update
 - Added Miners Grace Enchantment
 - Added Desert Oak Tree Plant
 - Added Desert Acacia Tree Plant
@@ -79,7 +82,7 @@ V0.0.3 - 1/1/2024 - Minority Update
 - Remade the logo
 - Modified Gozoki Zombi Indartsua drop to the Candy Corn
 
-V0.0.2 - 12/29/2023 - The Candy Update
+## v0.0.2 - 12/29/2023 - The Candy Update
 - Added 11 Soft Candy Blocks
 - Added 2 Hard Candy Blocks
 - Added Candy Biome
@@ -91,7 +94,7 @@ V0.0.2 - 12/29/2023 - The Candy Update
 - Added 8 Candy Structures
 - Added Chocolate Water
 
-V0.0.1 - 12/28/2023 - Sugar Sight
+## v0.0.1 - 12/28/2023 - Sugar Sight
 - Added Sugar Levels Gamerule
 - Added Code for Sugar Levels to increase
   - Added Sugar Rush 
