@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [12, 5],
+	"textures": {
+		"0": "FireFlyTexture",
+		"particle": "FireFlyTexture"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [11, 2, 9],
+			"faces": {
+				"north": {"uv": [2.66667, 6.4, 8, 12.8], "texture": "#0"},
+				"east": {"uv": [0, 6.4, 2.66667, 12.8], "texture": "#0"},
+				"south": {"uv": [10.66667, 6.4, 16, 12.8], "texture": "#0"},
+				"west": {"uv": [8, 6.4, 10.66667, 12.8], "texture": "#0"},
+				"up": {"uv": [8, 6.4, 2.66667, 0], "texture": "#0"},
+				"down": {"uv": [13.33333, 0, 8, 6.4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "wing1",
+			"from": [7.75, 0.75, 6],
+			"to": [7.75, 1.75, 8],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 2, 6]},
+			"faces": {
+				"north": {"uv": [2.66667, 12.8, 2.66667, 16], "texture": "#0"},
+				"east": {"uv": [0, 12.8, 2.66667, 16], "texture": "#0"},
+				"south": {"uv": [5.33333, 12.8, 5.33333, 16], "texture": "#0"},
+				"west": {"uv": [2.66667, 12.8, 5.33333, 16], "texture": "#0"},
+				"up": {"uv": [2.66667, 12.8, 2.66667, 6.4], "texture": "#0"},
+				"down": {"uv": [2.66667, 6.4, 2.66667, 12.8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "wing2",
+			"from": [7, 0.75, 8.25],
+			"to": [7, 1.75, 10.25],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 2, 12]},
+			"faces": {
+				"north": {"uv": [2.66667, 12.8, 2.66667, 16], "texture": "#0"},
+				"east": {"uv": [0, 12.8, 2.66667, 16], "texture": "#0"},
+				"south": {"uv": [5.33333, 12.8, 5.33333, 16], "texture": "#0"},
+				"west": {"uv": [2.66667, 12.8, 5.33333, 16], "texture": "#0"},
+				"up": {"uv": [2.66667, 12.8, 2.66667, 6.4], "texture": "#0"},
+				"down": {"uv": [2.66667, 6.4, 2.66667, 12.8], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "body",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0]
+		},
+		{
+			"name": "wing1",
+			"origin": [8, 2, 11],
+			"color": 0,
+			"nbt": "{}",
+			"children": [1]
+		},
+		{
+			"name": "wing2",
+			"origin": [8, 2, 11],
+			"color": 0,
+			"nbt": "{}",
+			"children": [2]
+		}
+	]
+}

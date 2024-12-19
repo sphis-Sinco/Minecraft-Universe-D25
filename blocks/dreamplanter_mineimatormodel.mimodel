@@ -1,0 +1,57 @@
+{
+	"name": "New model",
+	"texture": "default.png",
+	"texture_size": [ 16, 16 ],
+	"parts": [
+		{
+			"name": "New part",
+			"position": [ 0, 0, 0 ],
+			"shapes": [
+				{
+					"type": "block",
+					"description": "dfbg",
+					"texture": "dream_planter_bottom.png",
+					"texture_size": [ 16, 16 ],
+					"from": [ -8, 0, -8 ],
+					"to": [ 8, 0.1, 8 ],
+					"uv": [ 0, 0 ],
+					"position": [ 0, -0.1, 0 ]
+				}
+			]
+		},
+		{
+			"name": "New part (1)",
+			"mb_name": "New part",
+			"position": [ 0, 0, 0 ],
+			"shapes": [
+				{
+					"type": "block",
+					"texture": "dream_planter_side.png",
+					"texture_size": [ 16, 16 ],
+					"from": [ -8, 0, -8 ],
+					"to": [ 8, 16, 8 ],
+					"uv": [ 0, 0 ],
+					"bend": false
+				}
+			]
+		},
+		{
+			"name": "New part (2)",
+			"mb_name": "New part",
+			"texture": "dream_planter_top.png",
+			"texture_size": [ 16, 16 ],
+			"position": [ 0, 0, 0 ],
+			"shapes": [
+				{
+					"type": "block",
+					"texture": "dream_planter_top.png",
+					"texture_size": [ 16, 16 ],
+					"from": [ -8, 0, -8 ],
+					"to": [ 8, 0, 8 ],
+					"uv": [ 0, 0 ],
+					"position": [ 0, 16.1, 0 ]
+				}
+			]
+		}
+	]
+}

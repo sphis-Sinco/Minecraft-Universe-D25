@@ -1,0 +1,10 @@
+# Modelbench MTL file
+newmtl dream_planter_top
+map_Kd dream_planter_top.png
+
+newmtl dream_planter_bottom
+map_Kd dream_planter_bottom.png
+
+newmtl dream_planter_side
+map_Kd dream_planter_side.png
+
